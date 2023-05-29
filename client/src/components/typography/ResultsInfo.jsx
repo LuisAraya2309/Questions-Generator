@@ -1,6 +1,6 @@
 import React from "react";
 import Typography from "@mui/material/Typography";
-import "./GeneralInfo.css";
+import "./ResultsInfo.css";
 
 export function ResultsInfo({ props }) {
   return (
